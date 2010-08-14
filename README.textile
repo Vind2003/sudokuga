@@ -1,0 +1,11 @@
+h1. ¿Cómo resolver un sudoku utilizando un algoritmo genético?
+
+¿Qué es un algoritmo genético?, ¿cómo funciona?, ¿cómo puedo aplicarlo a un problema en particular?, ¿sería útil en el problema que quiero resolver?. He creado un ejemplo práctico de cómo utilizar un algoritmo genético, escrito con explicaciones sencillas y acompañado del código fuente para que puedas probarlo por tí mismo.
+
+*Desarrolladores*:
+
+* "Raúl Expósito":http://raulexposito.com/ (raul ARROBA raulexposito PUNTO com)
+
+*Consultar también*:
+
+* "web del proyecto":http://raulexposito.com/proyectos/sudokuga
