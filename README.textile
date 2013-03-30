@@ -4,8 +4,4 @@ h1. ¿Cómo resolver un sudoku utilizando un algoritmo genético?
 
 *Desarrolladores*:
 
-* "Raúl Expósito":http://raulexposito.com/ (raul ARROBA raulexposito PUNTO com)
-
-*Consultar también*:
-
-* "web del proyecto":http://raulexposito.com/proyectos/sudokuga
+* "Raúl Expósito":http://raulexposito.com/
